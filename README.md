@@ -9,6 +9,8 @@
 
 ### 2022년 8월
 
+- 자바의 기초 학습 
+
 ## JAVA
 ## Python
 ## DataBase
