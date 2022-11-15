@@ -1,6 +1,6 @@
 # Today I Learned(TIL)
 
-매일 공부한것을 정리하고 기록한다.
+매일 공부한것을 정리하고 기록합니다.
 
 ## History
 - [2022년 8월](https://github.com/jjsin123/TIL#2022년-8월)
