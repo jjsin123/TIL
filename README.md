@@ -16,3 +16,5 @@
 ## Python
 ## DataBase
 * MySQL
+## HTML
+## JavaScript
