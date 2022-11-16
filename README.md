@@ -46,7 +46,6 @@
 - [2. Python 문자열](https://github.com/jjsin123/TIL/blob/main/Python/2%20Python%20%EB%AC%B8%EC%9E%90%EC%97%B4%20bbff2ec37d3c4d86ad0ab87f8116b55f.md)
 - [가위바위보 게임 만들기](https://github.com/jjsin123/TIL/blob/main/Python/%EA%B0%80%EC%9C%84%EB%B0%94%EC%9C%84%EB%B3%B4%EA%B2%8C%EC%9E%84%20%EB%A7%8C%EB%93%A4%EA%B8%B0%206ac254a071e347a1a061cea1c5f9859e.md)
 - [QR 코드 만들기](https://github.com/jjsin123/TIL/blob/main/Python/QR%20code%20%EB%A7%8C%EB%93%A4%EA%B8%B0%20b32f41be8d104320b2f95ef021b9e54e.md)
-## DataBase
-* MySQL
+## MySQL
 ## HTML
 ## JavaScript
