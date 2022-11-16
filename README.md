@@ -5,7 +5,9 @@
 ## History
 - [2022년 8월](https://github.com/jjsin123/TIL#2022년-8월)
 - [2022년 9월](https://github.com/jjsin123/TIL#2022년-9월)
+- [2022년 10월](https://github.com/jjsin123/TIL#2022년-10월)
 
+### 2022년 10월
 
 ### 2022년 9월
 
