@@ -13,7 +13,7 @@
 
 ### 2022년 10월
 
-- [0. Python 시작]()
+- [0. Python 시작](https://github.com/jjsin123/TIL/blob/main/Python/0%20Python%20%EC%8B%9C%EC%9E%91%20d99af069396e4fad82431896bea483b8.md)
 - [1. Python 변수,자료형,연산자]()
 - [2. Python 문자열]()
 - [가위바위보 게임 만들기]()
@@ -41,7 +41,7 @@
 - [JAVA SelfTestA(21~23)](https://github.com/jjsin123/TIL/blob/main/JAVA/JAVA%20SelfTest%20A%20(21~23)%205ba87127402d4eecb26f5b8b60306305.md)
 
 ## Python
-- [0. Python 시작]()
+- [0. Python 시작](https://github.com/jjsin123/TIL/blob/main/Python/0%20Python%20%EC%8B%9C%EC%9E%91%20d99af069396e4fad82431896bea483b8.md)
 - [1. Python 변수,자료형,연산자]()
 - [2. Python 문자열]()
 - [가위바위보 게임 만들기]()
