@@ -15,7 +15,7 @@
 
 ### 2022년 11월
 
-- [네이버 블로그 검색API]()
+- [네이버 블로그 검색API](https://github.com/jjsin123/TIL/blob/main/Python/%EB%84%A4%EC%9D%B4%EB%B2%84%20%EB%B8%94%EB%A1%9C%EA%B7%B8%20%EA%B2%80%EC%83%89%20API%20.md)
 
 ### 2022년 10월
 
@@ -64,7 +64,7 @@
 - [6. Python 제어문-반복문]()
 - [가위바위보 게임 만들기](https://github.com/jjsin123/TIL/blob/main/Python/%EA%B0%80%EC%9C%84%EB%B0%94%EC%9C%84%EB%B3%B4%EA%B2%8C%EC%9E%84%20%EB%A7%8C%EB%93%A4%EA%B8%B0%206ac254a071e347a1a061cea1c5f9859e.md)
 - [QR 코드 만들기](https://github.com/jjsin123/TIL/blob/main/Python/QR%20code%20%EB%A7%8C%EB%93%A4%EA%B8%B0%20b32f41be8d104320b2f95ef021b9e54e.md)
-- [네이버 블로그 검색API]()
+- [네이버 블로그 검색API](https://github.com/jjsin123/TIL/blob/main/Python/%EB%84%A4%EC%9D%B4%EB%B2%84%20%EB%B8%94%EB%A1%9C%EA%B7%B8%20%EA%B2%80%EC%83%89%20API%20.md)
 
 ## MySQL
 ## HTML
