@@ -91,7 +91,7 @@ else:
  <문장 3>
 ```
 
-![Untitled](5%20Python%20%E1%84%8C%E1%85%A6%E1%84%8B%E1%85%A5%E1%84%86%E1%85%AE%E1%86%AB-%E1%84%8C%E1%85%A9%E1%84%80%E1%85%A5%E1%86%AB%E1%84%86%E1%85%AE%E1%86%AB%20a2b429a93e844ef89a8dad7ef23b1ae5/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/114375741/202360108-1bf9df85-d9b6-43b7-a54f-0c554a42188a.png)
 
 ```python
 # if-elif-else 예제
