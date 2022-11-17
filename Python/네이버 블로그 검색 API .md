@@ -30,4 +30,4 @@ Python, Google Colab, Gitgub gist, 네이버API [https://developers.naver.com/ma
 
 ---
 
-![Untitled](%E1%84%82%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%87%E1%85%A5%20%E1%84%87%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%20%E1%84%80%E1%85%A5%E1%86%B7%E1%84%89%E1%85%A2%E1%86%A8%20API%20f9afd8a162bd468e933a7694413f040e/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/114375741/202359749-24b58d18-99d4-437a-bf08-d5bfcc7201d9.png)
