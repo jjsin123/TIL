@@ -76,4 +76,7 @@
 
 ## MySQL
 ## HTML
+## CSS
 ## JavaScript
+## Node.js
+## Git
