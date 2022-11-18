@@ -208,8 +208,7 @@ Number of Books: 1
 ## 클래스 매직 메소드
 
 ---
-
-![Untitled](9%20Python%20%E1%84%80%E1%85%A2%E1%86%A8%E1%84%8E%E1%85%A6%E1%84%8B%E1%85%AA%20%E1%84%8F%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A2%E1%84%89%E1%85%B3%204751cc59fe3e4034b381e148dc33d0df/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/114375741/202612771-afb1c6f6-3a21-451c-911d-9cd7ee4b39b9.png)
 
 ## 클래스 상속
 
