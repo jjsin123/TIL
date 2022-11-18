@@ -73,7 +73,7 @@ Hello---Python
 
 ---
 
-![Untitled](7%20Python%20%E1%84%8B%E1%85%B5%E1%86%B8%E1%84%85%E1%85%A7%E1%86%A8%E1%84%80%E1%85%AA%20%E1%84%8E%E1%85%AE%E1%86%AF%E1%84%85%E1%85%A7%E1%86%A8%205bbab37de957427cb930da7b73063e6d/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/114375741/202593769-1b060172-1842-484d-907a-8af0af6259a7.png)
 
 ### 파일 입출력 과정
 
@@ -82,7 +82,7 @@ Hello---Python
 - 파일의 입출력 과정은 단계를 가짐
 - 파일을 열고, 파일을 읽거나 쓰고, 파일을 닫는 순서
 
-![Untitled](7%20Python%20%E1%84%8B%E1%85%B5%E1%86%B8%E1%84%85%E1%85%A7%E1%86%A8%E1%84%80%E1%85%AA%20%E1%84%8E%E1%85%AE%E1%86%AF%E1%84%85%E1%85%A7%E1%86%A8%205bbab37de957427cb930da7b73063e6d/Untitled%201.png)
+![Untitled 1](https://user-images.githubusercontent.com/114375741/202593774-c64e30e2-b301-42bd-bca2-05d49512f656.png)
 
 ### 파일 열기/닫기
 
@@ -101,15 +101,15 @@ f.close()
 
 ---
 
-![Untitled](7%20Python%20%E1%84%8B%E1%85%B5%E1%86%B8%E1%84%85%E1%85%A7%E1%86%A8%E1%84%80%E1%85%AA%20%E1%84%8E%E1%85%AE%E1%86%AF%E1%84%85%E1%85%A7%E1%86%A8%205bbab37de957427cb930da7b73063e6d/Untitled%202.png)
+![Untitled 2](https://user-images.githubusercontent.com/114375741/202593780-378b0f1d-c4ff-446c-b561-55d6228f0b2a.png)
 
-![Untitled](7%20Python%20%E1%84%8B%E1%85%B5%E1%86%B8%E1%84%85%E1%85%A7%E1%86%A8%E1%84%80%E1%85%AA%20%E1%84%8E%E1%85%AE%E1%86%AF%E1%84%85%E1%85%A7%E1%86%A8%205bbab37de957427cb930da7b73063e6d/Untitled%203.png)
+![Untitled 3](https://user-images.githubusercontent.com/114375741/202593793-17697907-b350-49c6-8427-91e6b2d34df9.png)
 
 ### 텍스트 파일 쓰기
 
 ---
 
-![Untitled](7%20Python%20%E1%84%8B%E1%85%B5%E1%86%B8%E1%84%85%E1%85%A7%E1%86%A8%E1%84%80%E1%85%AA%20%E1%84%8E%E1%85%AE%E1%86%AF%E1%84%85%E1%85%A7%E1%86%A8%205bbab37de957427cb930da7b73063e6d/Untitled%204.png)
+![Untitled 4](https://user-images.githubusercontent.com/114375741/202593805-dd4f7b82-709f-4764-ac5a-5ae9ecb22668.png)
 
 - `write()`를 이용하여 파일에 쓰기
 
@@ -154,7 +154,7 @@ f.close()
 
 ---
 
-![Untitled](7%20Python%20%E1%84%8B%E1%85%B5%E1%86%B8%E1%84%85%E1%85%A7%E1%86%A8%E1%84%80%E1%85%AA%20%E1%84%8E%E1%85%AE%E1%86%AF%E1%84%85%E1%85%A7%E1%86%A8%205bbab37de957427cb930da7b73063e6d/Untitled%205.png)
+![Untitled 5](https://user-images.githubusercontent.com/114375741/202593811-eb041552-b333-4a2b-b473-3e27fb9ef859.png)
 
 ```python
 # 텍스트 파일 예제
