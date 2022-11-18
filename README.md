@@ -26,7 +26,7 @@
 - [4. Python 튜플,세트,딕셔너리](https://github.com/jjsin123/TIL/blob/main/Python/4%20Python%20%ED%8A%9C%ED%94%8C,%EC%84%B8%ED%8A%B8,%EB%94%95%EC%85%94%EB%84%88%EB%A6%AC%20549e266c9438496aa03b1055413adfda.md)
 - [5. Python 제어문-조건문](https://github.com/jjsin123/TIL/blob/main/Python/5%20Python%20%EC%A0%9C%EC%96%B4%EB%AC%B8-%EC%A1%B0%EA%B1%B4%EB%AC%B8.md)
 - [6. Python 제어문-반복문](https://github.com/jjsin123/TIL/blob/main/Python/6%20Python%20%EC%A0%9C%EC%96%B4%EB%AC%B8-%EB%B0%98%EB%B3%B5%EB%AC%B8.md)
-- [7. Python 입력과 출력]()
+- [7. Python 입력과 출력](https://github.com/jjsin123/TIL/blob/main/Python/7%20Python%20%EC%9E%85%EB%A0%A5%EA%B3%BC%20%EC%B6%9C%EB%A0%A5.md)
 - [가위바위보 게임 만들기](https://github.com/jjsin123/TIL/blob/main/Python/%EA%B0%80%EC%9C%84%EB%B0%94%EC%9C%84%EB%B3%B4%EA%B2%8C%EC%9E%84%20%EB%A7%8C%EB%93%A4%EA%B8%B0%206ac254a071e347a1a061cea1c5f9859e.md)
 - [QR 코드 만들기](https://github.com/jjsin123/TIL/blob/main/Python/QR%20code%20%EB%A7%8C%EB%93%A4%EA%B8%B0%20b32f41be8d104320b2f95ef021b9e54e.md)
 
@@ -63,7 +63,7 @@
 - [4. Python 튜플,세트,딕셔너리](https://github.com/jjsin123/TIL/blob/main/Python/4%20Python%20%ED%8A%9C%ED%94%8C,%EC%84%B8%ED%8A%B8,%EB%94%95%EC%85%94%EB%84%88%EB%A6%AC%20549e266c9438496aa03b1055413adfda.md)
 - [5. Python 제어문-조건문](https://github.com/jjsin123/TIL/blob/main/Python/5%20Python%20%EC%A0%9C%EC%96%B4%EB%AC%B8-%EC%A1%B0%EA%B1%B4%EB%AC%B8.md)
 - [6. Python 제어문-반복문](https://github.com/jjsin123/TIL/blob/main/Python/6%20Python%20%EC%A0%9C%EC%96%B4%EB%AC%B8-%EB%B0%98%EB%B3%B5%EB%AC%B8.md)
-- [7. Python 입력과 출력]()
+- [7. Python 입력과 출력](https://github.com/jjsin123/TIL/blob/main/Python/7%20Python%20%EC%9E%85%EB%A0%A5%EA%B3%BC%20%EC%B6%9C%EB%A0%A5.md)
 - [가위바위보 게임 만들기](https://github.com/jjsin123/TIL/blob/main/Python/%EA%B0%80%EC%9C%84%EB%B0%94%EC%9C%84%EB%B3%B4%EA%B2%8C%EC%9E%84%20%EB%A7%8C%EB%93%A4%EA%B8%B0%206ac254a071e347a1a061cea1c5f9859e.md)
 - [QR 코드 만들기](https://github.com/jjsin123/TIL/blob/main/Python/QR%20code%20%EB%A7%8C%EB%93%A4%EA%B8%B0%20b32f41be8d104320b2f95ef021b9e54e.md)
 - [네이버 블로그 검색API](https://github.com/jjsin123/TIL/blob/main/Python/%EB%84%A4%EC%9D%B4%EB%B2%84%20%EB%B8%94%EB%A1%9C%EA%B7%B8%20%EA%B2%80%EC%83%89%20API%20.md)
