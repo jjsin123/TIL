@@ -28,7 +28,7 @@ SelfTest B4
 
 종류 2번의 경우 숫자의 진행 순서는 처음에 왼쪽에서 오른쪽으로 너비 n만큼 진행 한 후 방향을 바꾸어서 이를 반복한다.
 
-![Untitled](JAVA%20SelfTest%20B%20(4~6)%20c37428c0db8e4b7abb46de0d07b11cca/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/114375741/202840617-fcf88edb-5508-4451-9bd3-bd751079d430.png)
 
 입력형식 : 정사각형 한 변의 길이 n(n의 범위는 100 이하의 정수)과 종류 m(m은 1부터 3사이의 정수)을 입력받는다.
 
@@ -40,7 +40,7 @@ SelfTest B4
 
 출력 예 :
 
-![Untitled](JAVA%20SelfTest%20B%20(4~6)%20c37428c0db8e4b7abb46de0d07b11cca/Untitled%201.png)
+![Untitled 1](https://user-images.githubusercontent.com/114375741/202840621-f183175e-6fc8-4e69-ae26-4d3d0fbb80a7.png)
 
 입력 예 :
 
@@ -48,7 +48,7 @@ SelfTest B4
 
 출력 예 :
 
-![Untitled](JAVA%20SelfTest%20B%20(4~6)%20c37428c0db8e4b7abb46de0d07b11cca/Untitled%202.png)
+![Untitled 2](https://user-images.githubusercontent.com/114375741/202840624-a064489e-dcbe-457b-8e31-8c60eae6cd2a.png)
 
 ## 코드
 
@@ -78,7 +78,7 @@ SelfTest B5
 
 출력 예 :
 
-![Untitled](JAVA%20SelfTest%20B%20(4~6)%20c37428c0db8e4b7abb46de0d07b11cca/Untitled%203.png)
+![Untitled 3](https://user-images.githubusercontent.com/114375741/202840626-d366316f-d2b5-49a0-b8e1-4ec70b6074da.png)
 
 ## 코드
 
@@ -106,7 +106,7 @@ SelfTestB6
 
 출력 예 :
 
-![Untitled](JAVA%20SelfTest%20B%20(4~6)%20c37428c0db8e4b7abb46de0d07b11cca/Untitled%204.png)
+![Untitled 4](https://user-images.githubusercontent.com/114375741/202840628-296a9211-9852-4c79-92c4-0ec533a52663.png)
 
 ## 코드
 
