@@ -34,10 +34,7 @@ SelfTest B1
 
 출력 예 :
 
-1 2 3 4 5
-6 7 8 9 10
-11 12 13 14 15
-16 17 18 19 20
+![B1](https://user-images.githubusercontent.com/114375741/202839823-96e5ae6e-3ad8-4dde-9f68-832dcf95caf4.PNG)
 
 ## 코드
 
@@ -66,10 +63,7 @@ SelfTest B2
 
 출력 예 :
 
-1 2 3 4 5
-10 9 8 7 6
-11 12 13 14 15
-20 19 18 17 16
+![B2](https://user-images.githubusercontent.com/114375741/202839826-6eb2b7f1-48cd-4d8b-b4ab-09d155d283f8.PNG)
 
 ## 코드
 
@@ -97,10 +91,7 @@ SelfTestB3
 
 출력 예 :
 
-1 5 9 13
-2 6 10 14
-3 7 11 15
-4 8 12 16
+![B3](https://user-images.githubusercontent.com/114375741/202839827-48f7f095-8a9a-4276-9ec3-b34b88e9329b.PNG)
 
 ## 코드
 
