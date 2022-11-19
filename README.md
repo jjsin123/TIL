@@ -53,7 +53,7 @@
 - [0. JAVA 시작](https://github.com/jjsin123/TIL/blob/main/JAVA/0%20JAVA%20%EC%8B%9C%EC%9E%91%20118ad1122010479aa84e1ab1656cc625.md)
 - [1. JAVA 기본 프로그래밍](https://github.com/jjsin123/TIL/blob/main/JAVA/1%20JAVA%20%EA%B8%B0%EB%B3%B8%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%2090408da769e74d7793a4003050a996ad.md)
 
-
+# Language
 ## JAVA
 - [0. JAVA 시작](https://github.com/jjsin123/TIL/blob/main/JAVA/0%20JAVA%20%EC%8B%9C%EC%9E%91%20118ad1122010479aa84e1ab1656cc625.md)
 - [1. JAVA 기본 프로그래밍](https://github.com/jjsin123/TIL/blob/main/JAVA/1%20JAVA%20%EA%B8%B0%EB%B3%B8%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%2090408da769e74d7793a4003050a996ad.md)
@@ -83,9 +83,15 @@
 - [QR 코드 만들기](https://github.com/jjsin123/TIL/blob/main/Python/QR%20code%20%EB%A7%8C%EB%93%A4%EA%B8%B0%20b32f41be8d104320b2f95ef021b9e54e.md)
 - [네이버 블로그 검색API](https://github.com/jjsin123/TIL/blob/main/Python/%EB%84%A4%EC%9D%B4%EB%B2%84%20%EB%B8%94%EB%A1%9C%EA%B7%B8%20%EA%B2%80%EC%83%89%20API%20.md)
 
-## MySQL
+# Web
 ## HTML
 ## CSS
 ## JavaScript
+# DataBAse
+## MySQL
+#Sever
 ## Node.js
+## JSP
+## PHP
+#etc
 ## Git
