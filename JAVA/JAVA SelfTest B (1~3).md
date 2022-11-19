@@ -53,7 +53,8 @@ SelfTest B2
 
 사각형의 높이 n과 너비 m을 입력받은 후 사각형 내부에 지그재그 형태로 1부터 n*m번까지 숫자가 차례대로 출력되는 프로그램을 작성하시오. <처리조건>숫자의 진행 순서는 처음에 왼쪽에서 오른쪽으로 너비 m만큼 진행 한 후 방향을 바꾸어서 이를 반복한다.
 
-![Untitled](JAVA%20SelfTest%20B%20(1~3)%209d65529aaf424bfab769af5e96354165/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/114375741/202839711-6b4c50f7-0ac0-404d-8e92-db92752c50ca.png)
+
 
 입력형식 : 사각형의 높이n와 너비m(n과 m의 범위는 100이하의 정수)을 입력받는다.
 
@@ -88,7 +89,7 @@ SelfTestB3
 
 출력형식 : 위의 형식과 같이 한 변의 길이가 n인 숫자 사각형을 출력한다.  숫자 사이는 공백으로 구분한다.
 
-![Untitled](JAVA%20SelfTest%20B%20(1~3)%209d65529aaf424bfab769af5e96354165/Untitled%201.png)
+![Untitled 1](https://user-images.githubusercontent.com/114375741/202839712-96bd1b20-2e6a-4894-ab3a-a4bea03dd4e1.png)
 
 입력 예 :
 
