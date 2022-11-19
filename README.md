@@ -87,11 +87,11 @@
 ## HTML
 ## CSS
 ## JavaScript
-# DataBAse
+# DataBase
 ## MySQL
-#Sever
+# Sever
 ## Node.js
 ## JSP
 ## PHP
-#etc
+# etc
 ## Git
