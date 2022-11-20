@@ -38,6 +38,8 @@
 ### 2022년 9월
 
 - [0. HTML 시작]()
+- [1. HTML 텍스트요소(제목,단락,서식)]()
+- [2. HTML 텍스트요소(인용구,주석,엔티티)]()
 - [JAVA SelfTestB(1~3)](https://github.com/jjsin123/TIL/blob/main/JAVA/JAVA%20SelfTest%20B%20(1~3).md)
 - [JAVA SelfTestB(4~6)](https://github.com/jjsin123/TIL/blob/main/JAVA/JAVA%20SelfTest%20B%20(4~6).md)
 
@@ -86,7 +88,11 @@
 
 # Web
 ## HTML
+
 - [0. HTML 시작]()
+- [1. HTML 텍스트요소(제목,단락,서식)]()
+- [2. HTML 텍스트요소(인용구,주석,엔티티)]()
+
 ## CSS
 ## JavaScript
 # DataBase
