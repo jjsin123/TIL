@@ -37,7 +37,7 @@
 
 ### 2022년 9월
 
-- [0. HTML 시작]()
+- [0. HTML 시작](https://github.com/jjsin123/TIL/blob/main/HTML/0%20HTML%20%EC%8B%9C%EC%9E%91.md)
 - [1. HTML 텍스트요소(제목,단락,서식)]()
 - [2. HTML 텍스트요소(인용구,주석)]()
 - [JAVA SelfTestB(1~3)](https://github.com/jjsin123/TIL/blob/main/JAVA/JAVA%20SelfTest%20B%20(1~3).md)
@@ -89,7 +89,7 @@
 # Web
 ## HTML
 
-- [0. HTML 시작]()
+- [0. HTML 시작](https://github.com/jjsin123/TIL/blob/main/HTML/0%20HTML%20%EC%8B%9C%EC%9E%91.md)
 - [1. HTML 텍스트요소(제목,단락,서식)]()
 - [2. HTML 텍스트요소(인용구,주석)]()
 
