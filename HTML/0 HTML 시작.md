@@ -86,8 +86,7 @@ CodePan.io, atom.io
 
 - HTML 요소(element)는 여러 속성을 가질 수 있으며, 이러한 속성(attribute)은 해당 요소에 대한 추가적인 정보를 제공한다. 또한, HTML 요소는 시작 태그로 시작해서 종료 태그로 끝난다.
 - 속성은 HTML 요소 중에서도 언제나 시작 태그 내에서만 정의되며, 속성 이름과 속성값(value)으로 표현된다.
-
-![Untitled](0%20HTML%20%E1%84%89%E1%85%B5%E1%84%8C%E1%85%A1%E1%86%A8%209ff8db1e9512424ca21309445f526f07/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/114375741/202905017-a33987a0-0383-41b1-abb5-04fc5a710d3d.png)
 
 ```html
 <!-- 문법 -->
