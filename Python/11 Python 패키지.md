@@ -19,11 +19,11 @@ Updated Time: 2022년 11월 21일 오후 9:20
 - 모듈들이 서로 포함 관계를 가지며 거대한 패키지를 가짐
 - 파이썬에서는 패키지가 하나의 라이브러리
 
-![Untitled](11%20Python%20%E1%84%91%E1%85%A2%E1%84%8F%E1%85%B5%E1%84%8C%E1%85%B5%204789e737ed74414285bb7cf825a00e60/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/114375741/203053722-9b72d901-65b9-463b-ae1f-248e7056be86.png)
 
 - 패키지 구조 예제
 
-![Untitled](11%20Python%20%E1%84%91%E1%85%A2%E1%84%8F%E1%85%B5%E1%84%8C%E1%85%B5%204789e737ed74414285bb7cf825a00e60/Untitled%201.png)
+![Untitled 1](https://user-images.githubusercontent.com/114375741/203053715-33751c4e-56b5-43f3-ac65-d9991656ed3e.png)
 
 ### 패키지 구성 파일
 
