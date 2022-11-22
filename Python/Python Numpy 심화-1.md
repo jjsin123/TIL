@@ -210,7 +210,7 @@ array([[ 0.2255946 , -0.37870522,  1.10712639],
 
 ---
 
-![Untitled](Python%20Numpy%20%E1%84%89%E1%85%B5%E1%86%B7%E1%84%92%E1%85%AA-1%2047ae16dbd4c54d41bfacd916ba659953/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/114375741/203194240-5b2b9b9c-ff9c-413e-a62a-57bbcdbcb327.png)
 
 ### 날짜/시간 배열 생성
 
