@@ -16,7 +16,7 @@ if의 괄호 안에 조건식(논리형 변수나 논리 연산)
 
 - 실행문장이 단일 문장인 경우 둘러싸는 {, } 생략 가능
 
-![Untitled](2%20JAVA%20%E1%84%8C%E1%85%A6%E1%84%8B%E1%85%A5%E1%84%86%E1%85%AE%E1%86%AB-%E1%84%8C%E1%85%A9%E1%84%80%E1%85%A5%E1%86%AB%E1%84%86%E1%85%AE%E1%86%AB%20948582a8ea5e48239af26a36e685baef/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/114375741/203459207-392b9104-0f19-4aca-b2d2-83d813720ebc.png)
 
 ```java
 // if문 사용하기 예제
@@ -48,7 +48,7 @@ public class SuccessOrFail {
 - 조건식이 true면 실행문장1 실행 후 if-else문을 벗어남
 - flase인 경우에 실행문장2 실행 후, if-else문을 벗어남
 
-![Untitled](2%20JAVA%20%E1%84%8C%E1%85%A6%E1%84%8B%E1%85%A5%E1%84%86%E1%85%AE%E1%86%AB-%E1%84%8C%E1%85%A9%E1%84%80%E1%85%A5%E1%86%AB%E1%84%86%E1%85%AE%E1%86%AB%20948582a8ea5e48239af26a36e685baef/Untitled%201.png)
+![Untitled 1](https://user-images.githubusercontent.com/114375741/203459201-c3a66c7c-49a6-4d26-a7a8-c927f220bf49.png)
 
 ```java
 // if-else 예제
@@ -83,7 +83,7 @@ public class MultipleOfThree {
 - if-else가 연속되는 모양
 - 조건문이 너무 많은 경우, switch 문 사용 권장
 
-![Untitled](2%20JAVA%20%E1%84%8C%E1%85%A6%E1%84%8B%E1%85%A5%E1%84%86%E1%85%AE%E1%86%AB-%E1%84%8C%E1%85%A9%E1%84%80%E1%85%A5%E1%86%AB%E1%84%86%E1%85%AE%E1%86%AB%20948582a8ea5e48239af26a36e685baef/Untitled%202.png)
+![Untitled 2](https://user-images.githubusercontent.com/114375741/203459204-844392a2-93af-40ba-9fbb-cba2a82ba72b.png)
 
 ```java
 // 중첩 if-else문 예제
@@ -131,7 +131,7 @@ public class NestedIf {
 - case의 비교 값과 일치하는 것이 없으면 default문 실행
 - default문은 생략 가능
 
-![Untitled](2%20JAVA%20%E1%84%8C%E1%85%A6%E1%84%8B%E1%85%A5%E1%84%86%E1%85%AE%E1%86%AB-%E1%84%8C%E1%85%A9%E1%84%80%E1%85%A5%E1%86%AB%E1%84%86%E1%85%AE%E1%86%AB%20948582a8ea5e48239af26a36e685baef/Untitled%203.png)
+![Untitled 3](https://user-images.githubusercontent.com/114375741/203459206-eb966daa-109c-492e-8e13-d3b70ff46f19.png)
 
 ```java
 // switch문 예제
