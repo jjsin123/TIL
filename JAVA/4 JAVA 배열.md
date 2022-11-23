@@ -42,7 +42,7 @@ charArray = new char[20]; 또는 char charArray[] = new char[20];
 
 ---
 
-![Untitled](4%20JAVA%20%E1%84%87%E1%85%A2%E1%84%8B%E1%85%A7%E1%86%AF%208a3e7169b6054bee8ac5c6199be5637e/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/114375741/203473958-6c7eb70d-0bae-4ede-8d7c-ea88f13eda6d.png)
 
 ## 배열 인덱스와 원소 접근
 
@@ -93,7 +93,7 @@ public class ArrayAccess {
 
 - 배열 객체 내에 length 필드는 배열의 크기를 나타냄
 
-![Untitled](4%20JAVA%20%E1%84%87%E1%85%A2%E1%84%8B%E1%85%A7%E1%86%AF%208a3e7169b6054bee8ac5c6199be5637e/Untitled%201.png)
+![Untitled 1](https://user-images.githubusercontent.com/114375741/203473950-c884bfa5-ff39-4392-ba35-389cf4663952.png)
 
 ```java
 // length 필드 이용 예제
@@ -129,7 +129,8 @@ public class ArrayLength {
 
 **2차원 배열의 모양**
 
-![Untitled](4%20JAVA%20%E1%84%87%E1%85%A2%E1%84%8B%E1%85%A7%E1%86%AF%208a3e7169b6054bee8ac5c6199be5637e/Untitled%202.png)
+![Untitled 2](https://user-images.githubusercontent.com/114375741/203473957-d19f14f9-af47-481d-a36b-c37b60f4349b.png)
+
 
 **2차원 배열의 length**
 
