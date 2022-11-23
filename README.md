@@ -47,7 +47,7 @@
 
 ### 2022년 8월
 - [2. JAVA 제어문-조건문](https://github.com/jjsin123/TIL/blob/main/JAVA/2%20JAVA%20%EC%A0%9C%EC%96%B4%EB%AC%B8-%EC%A1%B0%EA%B1%B4%EB%AC%B8.md)
-- [3. JAVA 제어문-반복문]()
+- [3. JAVA 제어문-반복문](https://github.com/jjsin123/TIL/blob/main/JAVA/3%20JAVA%20%EC%A0%9C%EC%96%B4%EB%AC%B8-%EB%B0%98%EB%B3%B5%EB%AC%B8.md)
 - [JAVA SelfTestA(1~5)](https://github.com/jjsin123/TIL/blob/main/JAVA/JAVA%20SelfTest%20A%20(1~5)%20a48cf17609b74949b1c906f37bf2f0dd.md)
 - [JAVA SelfTestA(6~10)](https://github.com/jjsin123/TIL/blob/main/JAVA/JAVA%20SelfTest%20A%20(6~10)%2070c0d7c3c07149de816f13e665a32c0c.md)
 - [JAVA SelfTestA(11~15)](https://github.com/jjsin123/TIL/blob/main/JAVA/JAVA%20SelfTest%20A%20(11~15)%20d2aa71ba0b7a4409915dc2c08213b341.md)
@@ -64,7 +64,7 @@
 - [0. JAVA 시작](https://github.com/jjsin123/TIL/blob/main/JAVA/0%20JAVA%20%EC%8B%9C%EC%9E%91%20118ad1122010479aa84e1ab1656cc625.md)
 - [1. JAVA 기본 프로그래밍](https://github.com/jjsin123/TIL/blob/main/JAVA/1%20JAVA%20%EA%B8%B0%EB%B3%B8%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%2090408da769e74d7793a4003050a996ad.md)
 - [2. JAVA 제어문-조건문](https://github.com/jjsin123/TIL/blob/main/JAVA/2%20JAVA%20%EC%A0%9C%EC%96%B4%EB%AC%B8-%EC%A1%B0%EA%B1%B4%EB%AC%B8.md)
-- [3. JAVA 제어문-반복문]()
+- [3. JAVA 제어문-반복문](https://github.com/jjsin123/TIL/blob/main/JAVA/3%20JAVA%20%EC%A0%9C%EC%96%B4%EB%AC%B8-%EB%B0%98%EB%B3%B5%EB%AC%B8.md)
 - [JAVA SelfTestA(1~5)](https://github.com/jjsin123/TIL/blob/main/JAVA/JAVA%20SelfTest%20A%20(1~5)%20a48cf17609b74949b1c906f37bf2f0dd.md)
 - [JAVA SelfTestA(6~10)](https://github.com/jjsin123/TIL/blob/main/JAVA/JAVA%20SelfTest%20A%20(6~10)%2070c0d7c3c07149de816f13e665a32c0c.md)
 - [JAVA SelfTestA(11~15)](https://github.com/jjsin123/TIL/blob/main/JAVA/JAVA%20SelfTest%20A%20(11~15)%20d2aa71ba0b7a4409915dc2c08213b341.md)
