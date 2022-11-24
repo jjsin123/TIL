@@ -94,8 +94,8 @@ CodePan.io, atom.io
 
 - HTML5에서는 웹 페이지의 레이아웃만을 위한 별도의 새로운 요소들을 제공한다.
 
-![Untitled](5%20HTML%20%E1%84%80%E1%85%A9%E1%86%BC%E1%84%80%E1%85%A1%E1%86%AB%E1%84%87%E1%85%AE%E1%86%AB%E1%84%92%E1%85%A1%E1%86%AF%2092fceb5dbf7d44b697301507442db09f/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/114375741/203728671-cd7adc34-ffb8-4692-bab4-64cb4943f4e1.png)
 
-![Untitled](5%20HTML%20%E1%84%80%E1%85%A9%E1%86%BC%E1%84%80%E1%85%A1%E1%86%AB%E1%84%87%E1%85%AE%E1%86%AB%E1%84%92%E1%85%A1%E1%86%AF%2092fceb5dbf7d44b697301507442db09f/Untitled%201.png)
+![Untitled 1](https://user-images.githubusercontent.com/114375741/203728669-1dc8faa2-eaca-4106-a171-a355c838146d.png)
 
 [https://codepen.io/jjsin123/pen/rNKdRoY](https://codepen.io/jjsin123/pen/rNKdRoY)
