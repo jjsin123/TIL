@@ -40,7 +40,8 @@ Updated Time: 2022년 11월 24일 오후 2:57
 - 하위 클래스 : 서브 클래스, 수퍼 클래스를 잿용하고 새로운 특성 추가
 - 자바는 클래스 다중 상속 없음!! 인터페이스 다중 상속은 허용!!
 
-![Untitled](5%20JAVA%20%E1%84%8F%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A2%E1%84%89%E1%85%B3%E1%84%8B%E1%85%AA%20%E1%84%80%E1%85%A2%E1%86%A8%E1%84%8E%E1%85%A6-1%20ee004f3c227240f69f49b5a4733d8a16/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/114375741/203718607-b320f7bc-d739-4d83-80d9-e1ffadefb0ca.png)
+
 
 ## 다형성
 
@@ -76,8 +77,7 @@ Updated Time: 2022년 11월 24일 오후 2:57
 
 - 클래스의 이름과 동일한 특별한 메소드
 - 객체가 생성될 때 자동으로 한 번 호출되는 메소드
-
-![Untitled](5%20JAVA%20%E1%84%8F%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A2%E1%84%89%E1%85%B3%E1%84%8B%E1%85%AA%20%E1%84%80%E1%85%A2%E1%86%A8%E1%84%8E%E1%85%A6-1%20ee004f3c227240f69f49b5a4733d8a16/Untitled%201.png)
+![Untitled 1](https://user-images.githubusercontent.com/114375741/203718598-b0381752-3ef4-4b6e-b256-5379bba512c1.png)
 
 ## 객체 생성 및 접근
 
@@ -95,7 +95,8 @@ Updated Time: 2022년 11월 24일 오후 2:57
 
 - 객체 레퍼런스 멤버
 
-![Untitled](5%20JAVA%20%E1%84%8F%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A2%E1%84%89%E1%85%B3%E1%84%8B%E1%85%AA%20%E1%84%80%E1%85%A2%E1%86%A8%E1%84%8E%E1%85%A6-1%20ee004f3c227240f69f49b5a4733d8a16/Untitled%202.png)
+
+![Untitled 2](https://user-images.githubusercontent.com/114375741/203718605-4a613bf2-94ce-43c8-b7e4-80e3f5167d7c.png)
 
 ```java
 // Circle 클래스의 객체 생성 및 활용 예제
