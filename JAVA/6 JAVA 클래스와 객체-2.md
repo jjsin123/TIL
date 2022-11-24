@@ -79,7 +79,8 @@ public class Book {
 
 **객체 속에서의 this**
 
-![Untitled](6%20JAVA%20%E1%84%8F%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A2%E1%84%89%E1%85%B3%E1%84%8B%E1%85%AA%20%E1%84%80%E1%85%A2%E1%86%A8%E1%84%8E%E1%85%A6-2%20862d5286847543089889fd3cdb76df94/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/114375741/203719106-e5fe4864-2998-4c1b-900b-912755d796c4.png)
+
 
 **`this()`로 다른 생성자 호출**
 
@@ -133,7 +134,7 @@ public class Book {
 - 접근 지정자
 - 리턴 타입(메소드가 반환하는 값의 데이터 타입)
 
-![Untitled](6%20JAVA%20%E1%84%8F%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A2%E1%84%89%E1%85%B3%E1%84%8B%E1%85%AA%20%E1%84%80%E1%85%A2%E1%86%A8%E1%84%8E%E1%85%A6-2%20862d5286847543089889fd3cdb76df94/Untitled%201.png)
+![Untitled 1](https://user-images.githubusercontent.com/114375741/203719086-b722afb2-cec6-4ea0-9181-504c762b9582.png)
 
 ## 메소드 오버로딩(Overloading)
 
@@ -144,7 +145,7 @@ public class Book {
 
 **오버로딩 된 메소드 호출**
 
-![Untitled](6%20JAVA%20%E1%84%8F%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A2%E1%84%89%E1%85%B3%E1%84%8B%E1%85%AA%20%E1%84%80%E1%85%A2%E1%86%A8%E1%84%8E%E1%85%A6-2%20862d5286847543089889fd3cdb76df94/Untitled%202.png)
+![Untitled 2](https://user-images.githubusercontent.com/114375741/203719093-a81c22ab-637b-4403-8b23-c2eda1bec490.png)
 
 ## 패키지
 
@@ -152,8 +153,7 @@ public class Book {
 
 - 관련 있는 클래스 파일(컴파일된.class)을 저장하는 디렉터리
 - 자바 응용프로그램은 하나 이상의 패키지로 구성
-
-![Untitled](6%20JAVA%20%E1%84%8F%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A2%E1%84%89%E1%85%B3%E1%84%8B%E1%85%AA%20%E1%84%80%E1%85%A2%E1%86%A8%E1%84%8E%E1%85%A6-2%20862d5286847543089889fd3cdb76df94/Untitled%203.png)
+![Untitled 3](https://user-images.githubusercontent.com/114375741/203719097-d47d61de-3fa7-47ca-ab11-6a40d9438041.png)
 
 ## 접근 지정자
 
@@ -170,9 +170,8 @@ public class Book {
 
 **접근 지정자에 따른 클래스나 멤버의 공개 범위**
 
-![Untitled](6%20JAVA%20%E1%84%8F%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A2%E1%84%89%E1%85%B3%E1%84%8B%E1%85%AA%20%E1%84%80%E1%85%A2%E1%86%A8%E1%84%8E%E1%85%A6-2%20862d5286847543089889fd3cdb76df94/Untitled%204.png)
-
-![Untitled](6%20JAVA%20%E1%84%8F%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A2%E1%84%89%E1%85%B3%E1%84%8B%E1%85%AA%20%E1%84%80%E1%85%A2%E1%86%A8%E1%84%8E%E1%85%A6-2%20862d5286847543089889fd3cdb76df94/Untitled%205.png)
+![Untitled 4](https://user-images.githubusercontent.com/114375741/203719102-baf43b6f-922f-4435-a25a-64b6f807f87c.png)
+![Untitled 5](https://user-images.githubusercontent.com/114375741/203719103-dcec653a-d2ee-447d-99ef-2286578d38b1.png)
 
 ## final 클래스와 메소드
 
