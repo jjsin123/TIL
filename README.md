@@ -116,7 +116,7 @@
 
 # DataBase
 ## MySQL
-## SQLITE
+## SQLite
 
 # Sever
 ## Node.js
