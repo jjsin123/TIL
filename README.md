@@ -115,6 +115,7 @@
 ## JavaScript
 
 # Sever
+## Django
 ## JSP
 ## PHP
 ## Node.js
