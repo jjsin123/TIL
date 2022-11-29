@@ -122,8 +122,8 @@
 
 # DataBase
 ## MySQL
-## SQLite
 ## MariaDB
+## SQLite
 
 # etc
 ## Git
