@@ -116,6 +116,7 @@
 
 # Sever
 ## Django
+- [Django runserver 상시 유지하기](https://github.com/jjsin123/TIL/blob/main/Django/Django%20runserver%20%EC%83%81%EC%8B%9C%20%EC%9C%A0%EC%A7%80%ED%95%98%EA%B8%B0.md)
 ## JSP
 ## PHP
 ## Node.js
