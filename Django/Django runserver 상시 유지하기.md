@@ -21,7 +21,7 @@ Python manage.py runserver 0:80
 
 터미널을 종료하더라도 계속 서버를 동작 시키는 방법에 대해 알아본다.
 
-![Untitled](Django%20runserver%201bd63b204246473f9ca512e09a0fd045/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/114375741/209357990-f9dbf0f7-d767-4ffb-9b26-055b23ba89c1.png)
 
 1. 위와 같이 평소처럼 `Python manage.py runserver 0:80` 명령어로 서버를 실행시킨다.
 2. `ctrl+z`를 눌러 해당 프로그램을 정지 시키고 shell로 돌아온다.
@@ -33,7 +33,7 @@ Python manage.py runserver 0:80
 
 추가적으로 서버를 종료 시키는 방법을 알아본다.
 
-![Untitled](Django%20runserver%201bd63b204246473f9ca512e09a0fd045/Untitled%201.png)
+![Untitled 1](https://user-images.githubusercontent.com/114375741/209357999-ddabdbbc-3f7d-40ab-9897-6510ade2565f.png)
 
 1. `ps -ef | grep [manage.py](http://manage.py/)` 명령어를 치면 데몬 형태로 실행 중인 프로세스들이 보인다. 아래의 명령어와 같이 두 번째 칸에 있는 프로세스 아이디를 입력한다.
 2. `kill 프로세스아이디` ex. kill 27696
