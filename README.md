@@ -17,7 +17,7 @@
 ### 2022년 11월
 - [Python Numpy 심화-1](https://github.com/jjsin123/TIL/blob/main/Python/Python%20Numpy%20%EC%8B%AC%ED%99%94-1.md)
 - [네이버 블로그 검색API](https://github.com/jjsin123/TIL/blob/main/Python/%EB%84%A4%EC%9D%B4%EB%B2%84%20%EB%B8%94%EB%A1%9C%EA%B7%B8%20%EA%B2%80%EC%83%89%20API%20.md)
-
+- [미니프로젝트(공유킥보드사업DB설계)](https://github.com/jjsin123/TIL/blob/main/Project/%EB%AF%B8%EB%8B%88%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8(%EA%B3%B5%EC%9C%A0%ED%82%A5%EB%B3%B4%EB%93%9C%EC%82%AC%EC%97%85DB%EC%84%A4%EA%B3%84).md)
 ### 2022년 10월
 
 - [0. Python 시작](https://github.com/jjsin123/TIL/blob/main/Python/0%20Python%20%EC%8B%9C%EC%9E%91%20d99af069396e4fad82431896bea483b8.md)
@@ -128,7 +128,7 @@
 ## SQLite
 
 # Project
-## Toy
+- [미니프로젝트(공유킥보드사업DB설계)](https://github.com/jjsin123/TIL/blob/main/Project/%EB%AF%B8%EB%8B%88%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8(%EA%B3%B5%EC%9C%A0%ED%82%A5%EB%B3%B4%EB%93%9C%EC%82%AC%EC%97%85DB%EC%84%A4%EA%B3%84).md)
 
 # etc
 ## Git
