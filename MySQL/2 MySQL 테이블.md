@@ -15,7 +15,7 @@ Updated Time: 2022년 12월 25일 오후 5:19
 - 테이블을 사용하려면 테이블을 생성하는 SQL을 사용해야 한다.
 - 그리고, 테이블에 값을 저장하려면 저장하기 위한 SQL을 사용해야 한다.
 
-![2_8_1_(table)_.png](2%20MySQL%20%E1%84%90%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%87%E1%85%B3%E1%86%AF%205269f2f8adf44a48bda6875bbeacade7/2_8_1_(table)_.png)
+![2_8_1_(table)_](https://user-images.githubusercontent.com/114375741/209466480-2b314024-fb18-40db-a895-8573829a8d33.png)
 
 **테이블(table)의 구성요소**
 
@@ -40,7 +40,6 @@ Empty set (0.02 sec)
 
 미리 준비된 examples.sql로 실습을 진행한다. 
 
-[examples.sql](2%20MySQL%20%E1%84%90%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%87%E1%85%B3%E1%86%AF%205269f2f8adf44a48bda6875bbeacade7/examples.sql)
 
 터미널에서 examples.sql이 있는 폴더로 이동한 후, 다음과 같이 명령을 수행한다.
 
@@ -66,8 +65,8 @@ show tables;
 ```
 
 위의 명령은 접속한 db의 테이블 목록을 보는 명령이다.
+![image](https://user-images.githubusercontent.com/114375741/209466511-7716cdeb-2030-48d2-ac6a-f5079a2ffe35.png)
 
-![https://cphinf.pstatic.net/mooc/20180131_157/1517366408574LmBpS_PNG/2_8_1_SQL_____.png?type=w760](https://cphinf.pstatic.net/mooc/20180131_157/1517366408574LmBpS_PNG/2_8_1_SQL_____.png?type=w760)
 
 **테이블 구조를 확인하기 위한 DESCRIBE 명령**
 
