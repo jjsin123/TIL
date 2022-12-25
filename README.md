@@ -61,6 +61,7 @@
 - [JAVA SelfTestA(21~23)](https://github.com/jjsin123/TIL/blob/main/JAVA/JAVA%20SelfTest%20A%20(21~23)%205ba87127402d4eecb26f5b8b60306305.md)
 - [0. MySQL 시작](https://github.com/jjsin123/TIL/blob/main/MySQL/0.%20MySQL%20%EC%8B%9C%EC%9E%91.md)
 - [1. MySQL DB 생성 및 권한](https://github.com/jjsin123/TIL/blob/main/MySQL/1%20MySQL%20DB%20%EC%83%9D%EC%84%B1%20%EB%B0%8F%20%EA%B6%8C%ED%95%9C.md)
+- [2. MySQL 테이블](https://github.com/jjsin123/TIL/blob/main/MySQL/2%20MySQL%20%ED%85%8C%EC%9D%B4%EB%B8%94.md)
 
 ### 2022년 7월
 
@@ -128,6 +129,8 @@
 ## MySQL
 - [0. MySQL 시작](https://github.com/jjsin123/TIL/blob/main/MySQL/0.%20MySQL%20%EC%8B%9C%EC%9E%91.md)
 - [1. MySQL DB 생성 및 권한](https://github.com/jjsin123/TIL/blob/main/MySQL/1%20MySQL%20DB%20%EC%83%9D%EC%84%B1%20%EB%B0%8F%20%EA%B6%8C%ED%95%9C.md)
+- [2. MySQL 테이블](https://github.com/jjsin123/TIL/blob/main/MySQL/2%20MySQL%20%ED%85%8C%EC%9D%B4%EB%B8%94.md)
+
 ## MariaDB
 ## SQLite
 
