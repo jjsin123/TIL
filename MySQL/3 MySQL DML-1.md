@@ -20,7 +20,7 @@ Updated Time: 2022년 12월 25일 오전 12:23
 
 **SELECT 구문의 기본문형**
 
-![https://cphinf.pstatic.net/mooc/20180131_187/1517374752273Ba8n9_PNG/2_8_2_select__.PNG?type=w760](https://cphinf.pstatic.net/mooc/20180131_187/1517374752273Ba8n9_PNG/2_8_2_select__.PNG?type=w760)
+![image](https://user-images.githubusercontent.com/114375741/209466613-02c66edd-a618-4578-b28f-305147642af3.png)
 
 **SELECT 구문 예제(전체 데이터 검색)**
 
@@ -33,7 +33,7 @@ Updated Time: 2022년 12월 25일 오전 12:23
 SELECT * FROM  DEPARTMENT;
 ```
 
-![https://cphinf.pstatic.net/mooc/20180131_204/15173752726665yfHB_PNG/2_8_2_select__.png?type=w760](https://cphinf.pstatic.net/mooc/20180131_204/15173752726665yfHB_PNG/2_8_2_select__.png?type=w760)
+![image (1)](https://user-images.githubusercontent.com/114375741/209466614-161a3df6-d76a-4af5-be88-d2226e2d9b47.png)
 
 **SELECT 구문 예제(특정 컬럼 검색)**
 
@@ -47,7 +47,7 @@ SELECT * FROM  DEPARTMENT;
 select empno, name, job from employee;
 ```
 
-![https://cphinf.pstatic.net/mooc/20180131_242/1517375406686GtLK0_PNG/2_8_2_select__%28__%29.png?type=w760](https://cphinf.pstatic.net/mooc/20180131_242/1517375406686GtLK0_PNG/2_8_2_select__%28__%29.png?type=w760)
+![image (2)](https://user-images.githubusercontent.com/114375741/209466615-9f1f7205-0c3f-4c80-942a-df7520347e2e.png)
 
 **SELECT 구문 예제(컬럼에 Alias부여하기)**
 
@@ -59,7 +59,7 @@ select empno, name, job from employee;
 select empno as 사번, name as 이름, job as 직업 from employee;
 ```
 
-![https://cphinf.pstatic.net/mooc/20180131_241/1517375599282HCWV3_PNG/2_8_2_select__%28_alias%29.png?type=w760](https://cphinf.pstatic.net/mooc/20180131_241/1517375599282HCWV3_PNG/2_8_2_select__%28_alias%29.png?type=w760)
+![image (3)](https://user-images.githubusercontent.com/114375741/209466608-df11642a-5fda-473c-bd92-e1bb29860e82.png)
 
 **SELECT 구문 예제(컬럼의 합성(Concatenation))**
 
@@ -72,7 +72,7 @@ SELECT concat( empno, '-', deptno) AS '사번-부서번호'
 FROM employee;
 ```
 
-![https://cphinf.pstatic.net/mooc/20180131_100/1517375714196vQgJz_PNG/2_8_2_select__%28_%29.png?type=w760](https://cphinf.pstatic.net/mooc/20180131_100/1517375714196vQgJz_PNG/2_8_2_select__%28_%29.png?type=w760)
+![image (4)](https://user-images.githubusercontent.com/114375741/209466609-9b96f685-e6be-4d76-8d44-803391d0601d.png)
 
 **SELECT 구문 예제(중복행의 제거)**
 
@@ -84,7 +84,7 @@ FROM employee;
 select deptno from employee;
 ```
 
-![https://cphinf.pstatic.net/mooc/20180131_181/1517375842547vAATO_PNG/2_8_2_select__%28_%29.png?type=w760](https://cphinf.pstatic.net/mooc/20180131_181/1517375842547vAATO_PNG/2_8_2_select__%28_%29.png?type=w760)
+![image (5)](https://user-images.githubusercontent.com/114375741/209466610-e7665df5-e357-4a69-9b10-16ab71d59a51.png)
 
 예제2 : 사원 테이블의 부서번호를 중복되지 않게 출력하시오.
 
@@ -92,11 +92,11 @@ select deptno from employee;
 select distinct deptno from employee;
 ```
 
-![https://cphinf.pstatic.net/mooc/20180131_259/1517375862194IANYL_PNG/2_8_2_select__%28_%29-2.png?type=w760](https://cphinf.pstatic.net/mooc/20180131_259/1517375862194IANYL_PNG/2_8_2_select__%28_%29-2.png?type=w760)
+![image (6)](https://user-images.githubusercontent.com/114375741/209466611-fe11a1f0-0da9-4b88-94bd-9145fc38d05e.png)
 
 **SELECT 구문 예제(정렬하기)**
 
-![https://cphinf.pstatic.net/mooc/20180227_237/15196955203980m2pE_PNG/2.PNG?type=w760](https://cphinf.pstatic.net/mooc/20180227_237/15196955203980m2pE_PNG/2.PNG?type=w760)
+![image (7)](https://user-images.githubusercontent.com/114375741/209466612-f106b0ea-4630-4359-8f51-26e068ced831.png)
 
 예제 : employee 테이블에서 직원의 사번(empno), 이름(name), 직업(job)을 출력하시오.
 
