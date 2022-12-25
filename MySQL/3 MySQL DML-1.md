@@ -84,15 +84,15 @@ FROM employee;
 select deptno from employee;
 ```
 
-![image (5)](https://user-images.githubusercontent.com/114375741/209466610-e7665df5-e357-4a69-9b10-16ab71d59a51.png)
+![image (6)](https://user-images.githubusercontent.com/114375741/209466611-fe11a1f0-0da9-4b88-94bd-9145fc38d05e.png)
+
 
 예제2 : 사원 테이블의 부서번호를 중복되지 않게 출력하시오.
 
 ```
 select distinct deptno from employee;
 ```
-
-![image (6)](https://user-images.githubusercontent.com/114375741/209466611-fe11a1f0-0da9-4b88-94bd-9145fc38d05e.png)
+![image (5)](https://user-images.githubusercontent.com/114375741/209466610-e7665df5-e357-4a69-9b10-16ab71d59a51.png)
 
 **SELECT 구문 예제(정렬하기)**
 
