@@ -20,6 +20,11 @@
 - 개발환경 : MariaDB, Flask
 - 개발기간 : 2주
 
+### 릴레이션 스키마
+
+---
+![Untitled](https://user-images.githubusercontent.com/114375741/209465102-c1d12ab6-ed1e-423c-b11d-94055f50f984.png)
+
 ### er 다이어그램
 
 ---
