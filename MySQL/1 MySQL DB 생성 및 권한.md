@@ -27,7 +27,8 @@ mysql –uroot  -p
 
 window 사용자는 설치 시에 입력했던 암호를 입력한다.
 
-![https://cphinf.pstatic.net/mooc/20180131_298/1517364008365xNdNE_PNG/2_8_1_Database.png?type=w760](https://cphinf.pstatic.net/mooc/20180131_298/1517364008365xNdNE_PNG/2_8_1_Database.png?type=w760)
+![image](https://user-images.githubusercontent.com/114375741/209466382-347a0f40-9e2a-4f19-bbb1-745c652e0331.png)
+
 
 관리자 계정으로 MySQL에 접속했다면, 다음과 같은 명령으로 데이터베이스를 생성한다.
 
