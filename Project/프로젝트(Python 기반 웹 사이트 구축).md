@@ -83,17 +83,17 @@
 
 1. navbar 2. 관리자 권한이 있는 계정은 Admin 버튼 출력 3. 비회원이면 Login 버튼, 회원이면 계정명 출력 4. 대문 소개 문구 5. 최근 블로그 Post 미리보기 6. footer
 
-✅ Blog List
+✅ Blog List 페이지
 
 ![%EB%B8%94%EB%A1%9C%EA%B7%B8%EB%A6%AC%EC%8A%A4%ED%8A%B8%ED%8E%98%EC%9D%B4%EC%A7%80](https://user-images.githubusercontent.com/114375741/209914203-86d6d2bc-42e0-4bf9-ba51-01c369d603c0.png)
 
 1. 회원 계정일시 New Post 버튼 출력 2. 검색 기능(글 제목, Tag로 검색) 3. 카테고리 사이드바 4. Post 상세 보기 버튼
 
-✅ Create Post
+✅ Create Post 페이지
 
 ![CreatePost%ED%8E%98%EC%9D%B4%EC%A7%80](https://user-images.githubusercontent.com/114375741/209914257-b389bb68-d0ce-4737-a7cf-cf72a3c5149b.png)
 
-✅ Blog datail
+✅ Blog datail 페이지
 
 ![%EB%B8%94%EB%A1%9C%EA%B7%B8%EB%94%94%ED%85%8C%EC%9D%BC%ED%8E%98%EC%9D%B4%EC%A7%801](https://user-images.githubusercontent.com/114375741/209914224-4dd0deb7-bada-421a-9b93-d8c9b1425751.png)
 
@@ -101,15 +101,15 @@
 
 ![boardlist](https://user-images.githubusercontent.com/114375741/209914276-4794f344-f960-4f39-895b-e6c815553416.png)
 
-✅ Board Detail
+✅ Board Detail 페이지
 
 ![boarddetail](https://user-images.githubusercontent.com/114375741/209914288-0c9c802f-cd00-4d8e-8882-9e385bb408b2.png)
 
-✅ Chat
+✅ Chat 페이지
 
 Nginx로 사용시 문제가 발생하여 수정 중 추후 업로드 예정
 
-✅ About me
+✅ About me 페이지
 
 ![aboutme](https://user-images.githubusercontent.com/114375741/209914302-fdc1f760-5aa4-402e-8765-b52fb4470bbb.png)
 
