@@ -44,14 +44,11 @@
 
 ![Web_%EC%8B%9C%EC%8A%A4%ED%85%9C_%EA%B5%AC%EC%84%B1%EB%8F%84_%EC%B5%9C%EC%A2%85](https://user-images.githubusercontent.com/114375741/209914096-ab853c2c-4dc8-47c8-98bc-a522f27638f3.jpg)
 
-
 ### ER 다이어그램
 
 ---
 
-
 ![django_erd](https://user-images.githubusercontent.com/114375741/209914125-d85949ab-0bd9-4e2c-9004-243573bd3286.png)
-
 
 ### 기능 설명
 
@@ -82,31 +79,31 @@
 
 ✅ 대문 페이지
 
-![대문페이지.PNG](%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3(%E1%84%8B%E1%85%B0%E1%86%B8%20%E1%84%89%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%90%E1%85%B3%20%E1%84%80%E1%85%AE%E1%84%8E%E1%85%AE%E1%86%A8)%202bf1c3e1717d4544b9d21b6bd1413b7c/%25EB%258C%2580%25EB%25AC%25B8%25ED%258E%2598%25EC%259D%25B4%25EC%25A7%2580.png)
+![%EB%8C%80%EB%AC%B8%ED%8E%98%EC%9D%B4%EC%A7%80](https://user-images.githubusercontent.com/114375741/209914165-a46972fc-40b6-460d-b5e7-e12d43c30d21.png)
 
 1. navbar 2. 관리자 권한이 있는 계정은 Admin 버튼 출력 3. 비회원이면 Login 버튼, 회원이면 계정명 출력 4. 대문 소개 문구 5. 최근 블로그 Post 미리보기 6. footer
 
 ✅ Blog List
 
-![블로그리스트페이지.PNG](%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3(%E1%84%8B%E1%85%B0%E1%86%B8%20%E1%84%89%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%90%E1%85%B3%20%E1%84%80%E1%85%AE%E1%84%8E%E1%85%AE%E1%86%A8)%202bf1c3e1717d4544b9d21b6bd1413b7c/%25EB%25B8%2594%25EB%25A1%259C%25EA%25B7%25B8%25EB%25A6%25AC%25EC%258A%25A4%25ED%258A%25B8%25ED%258E%2598%25EC%259D%25B4%25EC%25A7%2580.png)
+![%EB%B8%94%EB%A1%9C%EA%B7%B8%EB%A6%AC%EC%8A%A4%ED%8A%B8%ED%8E%98%EC%9D%B4%EC%A7%80](https://user-images.githubusercontent.com/114375741/209914203-86d6d2bc-42e0-4bf9-ba51-01c369d603c0.png)
 
 1. 회원 계정일시 New Post 버튼 출력 2. 검색 기능(글 제목, Tag로 검색) 3. 카테고리 사이드바 4. Post 상세 보기 버튼
 
 ✅ Create Post
 
-![CreatePost페이지.PNG](%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3(%E1%84%8B%E1%85%B0%E1%86%B8%20%E1%84%89%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%90%E1%85%B3%20%E1%84%80%E1%85%AE%E1%84%8E%E1%85%AE%E1%86%A8)%202bf1c3e1717d4544b9d21b6bd1413b7c/CreatePost%25ED%258E%2598%25EC%259D%25B4%25EC%25A7%2580.png)
+![CreatePost%ED%8E%98%EC%9D%B4%EC%A7%80](https://user-images.githubusercontent.com/114375741/209914257-b389bb68-d0ce-4737-a7cf-cf72a3c5149b.png)
 
 ✅ Blog datail
 
-![블로그디테일페이지1.PNG](%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3(%E1%84%8B%E1%85%B0%E1%86%B8%20%E1%84%89%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%90%E1%85%B3%20%E1%84%80%E1%85%AE%E1%84%8E%E1%85%AE%E1%86%A8)%202bf1c3e1717d4544b9d21b6bd1413b7c/%25EB%25B8%2594%25EB%25A1%259C%25EA%25B7%25B8%25EB%2594%2594%25ED%2585%258C%25EC%259D%25BC%25ED%258E%2598%25EC%259D%25B4%25EC%25A7%25801.png)
+![%EB%B8%94%EB%A1%9C%EA%B7%B8%EB%94%94%ED%85%8C%EC%9D%BC%ED%8E%98%EC%9D%B4%EC%A7%801](https://user-images.githubusercontent.com/114375741/209914224-4dd0deb7-bada-421a-9b93-d8c9b1425751.png)
 
 ✅ ****************Board List
 
-![boardlist.PNG](%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3(%E1%84%8B%E1%85%B0%E1%86%B8%20%E1%84%89%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%90%E1%85%B3%20%E1%84%80%E1%85%AE%E1%84%8E%E1%85%AE%E1%86%A8)%202bf1c3e1717d4544b9d21b6bd1413b7c/boardlist.png)
+![boardlist](https://user-images.githubusercontent.com/114375741/209914276-4794f344-f960-4f39-895b-e6c815553416.png)
 
 ✅ Board Detail
 
-![boarddetail.PNG](%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3(%E1%84%8B%E1%85%B0%E1%86%B8%20%E1%84%89%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%90%E1%85%B3%20%E1%84%80%E1%85%AE%E1%84%8E%E1%85%AE%E1%86%A8)%202bf1c3e1717d4544b9d21b6bd1413b7c/boarddetail.png)
+![boarddetail](https://user-images.githubusercontent.com/114375741/209914288-0c9c802f-cd00-4d8e-8882-9e385bb408b2.png)
 
 ✅ Chat
 
@@ -114,7 +111,7 @@ Nginx로 사용시 문제가 발생하여 수정 중 추후 업로드 예정
 
 ✅ About me
 
-![aboutme.PNG](%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3(%E1%84%8B%E1%85%B0%E1%86%B8%20%E1%84%89%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%90%E1%85%B3%20%E1%84%80%E1%85%AE%E1%84%8E%E1%85%AE%E1%86%A8)%202bf1c3e1717d4544b9d21b6bd1413b7c/aboutme.png)
+![aboutme](https://user-images.githubusercontent.com/114375741/209914302-fdc1f760-5aa4-402e-8765-b52fb4470bbb.png)
 
 ### 라이센스
 
