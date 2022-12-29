@@ -13,6 +13,7 @@
 
 ### 2022년 12월
 - [Django runserver 상시 유지하기](https://github.com/jjsin123/TIL/blob/main/Django/Django%20runserver%20%EC%83%81%EC%8B%9C%20%EC%9C%A0%EC%A7%80%ED%95%98%EA%B8%B0.md)
+- [프로젝트(웹 사이트 구축)](https://github.com/jjsin123/TIL/blob/main/Project/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8(Python%20%EA%B8%B0%EB%B0%98%20%EC%9B%B9%20%EC%82%AC%EC%9D%B4%ED%8A%B8%20%EA%B5%AC%EC%B6%95).md)
 
 ### 2022년 11월
 - [Python Numpy 심화-1](https://github.com/jjsin123/TIL/blob/main/Python/Python%20Numpy%20%EC%8B%AC%ED%99%94-1.md)
@@ -138,6 +139,7 @@
 
 # Project
 - [미니프로젝트(공유킥보드사업DB설계)](https://github.com/jjsin123/TIL/blob/main/Project/%EB%AF%B8%EB%8B%88%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8(%EA%B3%B5%EC%9C%A0%ED%82%A5%EB%B3%B4%EB%93%9C%EC%82%AC%EC%97%85DB%EC%84%A4%EA%B3%84).md)
+- [프로젝트(웹 사이트 구축)](https://github.com/jjsin123/TIL/blob/main/Project/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8(Python%20%EA%B8%B0%EB%B0%98%20%EC%9B%B9%20%EC%82%AC%EC%9D%B4%ED%8A%B8%20%EA%B5%AC%EC%B6%95).md)
 
 # etc
 ## Git
